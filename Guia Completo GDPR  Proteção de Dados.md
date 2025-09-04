@@ -1,5 +1,3 @@
----
-
 # 📘 Guia Completo: GDPR & Proteção de Dados
 
 ## 🔹 1. O que é o GDPR / RGPD
@@ -146,3 +144,4 @@ Medidas técnicas e organizativas:
 
 ---
 
+Queres que eu prepare este `.md` em **formato README estilizado para GitHub**, com tabelas e ícones visuais, para ficar mais apelativo?
